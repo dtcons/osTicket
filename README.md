@@ -1,10 +1,3 @@
-[osTicket](http://osticket.com) Docker Image
-=============================================
-[![Docker Pulls](https://img.shields.io/docker/pulls/osticket/osticket.svg)](https://hub.docker.com/r/osticket/osticket)
-  
-<a href="http://osticket.com"><img src="http://osticket.com/sites/default/files/osTicket.jpg"
-align="left" hspace="10" vspace="6"></a>
-
 Docker image for running always fresh and bleeding edge version of [osTicket](http://osticket.com/) Shipping with plugins and language packs. **osTicket** is a widely-used open source support ticket system. It seamlessly
 integrates inquiries created via email, phone and web-based forms into a
 simple easy-to-use multi-user web interface. Manage, organize and archive
@@ -206,5 +199,4 @@ Please feel free to open an issue if you have any changes you would like to see.
 
 # License
 
-Installer script in this image and docs was based on [CampbellSoftwareSolutions/docker-osticket](https://github.com/CampbellSoftwareSolutions/docker-osticket) that itself was created from a fork of docker-osticket image by [Petter A. Helset](mailto:petter@helset.eu).
 This image and source code is made available under the MIT licence. See the LICENSE file for details.
